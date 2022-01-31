@@ -3,6 +3,8 @@ Site android que fiz seguindo o curso de HTML &amp; CSS do CursoEmVideo
 
 Aplicação web feita sem uso de tutorial apenas recriando a imagem que me foi mostrada, e usando das técnologias HTML 5 & CSS 3
 
+Playlist do Curso de HTML 5 & CSS 3 do CursoEmVideo: https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s
+
 ## Site Android
 O site se trata de um artigo sobre a história da tecnologia android
 
